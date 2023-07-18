@@ -1,0 +1,425 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'ECE385_sys|nios2_pll|sd1|pll7|clk[0]'
+Slack : -8.511
+TNS   : -129.082
+
+Type  : Slow 1200mV 85C Model Setup 'ECE385_sys|nios2_pll|sd1|pll7|clk[2]'
+Slack : -5.326
+TNS   : -40.884
+
+Type  : Slow 1200mV 85C Model Setup 'CLOCK_50'
+Slack : 0.239
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'ENET1_RX_CLK'
+Slack : 1.163
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'ENET0_RX_CLK'
+Slack : 1.192
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'ECE385_sys|nios2_pll|sd1|pll7|clk[3]'
+Slack : 8.113
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'altera_reserved_tck'
+Slack : 45.100
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'CLOCK_50'
+Slack : 0.185
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ENET0_RX_CLK'
+Slack : 0.340
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ECE385_sys|nios2_pll|sd1|pll7|clk[0]'
+Slack : 0.386
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'altera_reserved_tck'
+Slack : 0.402
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ECE385_sys|nios2_pll|sd1|pll7|clk[3]'
+Slack : 0.403
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ENET1_RX_CLK'
+Slack : 0.403
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ECE385_sys|nios2_pll|sd1|pll7|clk[2]'
+Slack : 0.409
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'ECE385_sys|nios2_pll|sd1|pll7|clk[0]'
+Slack : -3.100
+TNS   : -756.759
+
+Type  : Slow 1200mV 85C Model Recovery 'ENET0_RX_CLK'
+Slack : 0.289
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'ENET1_RX_CLK'
+Slack : 0.291
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'CLOCK_50'
+Slack : 12.574
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'altera_reserved_tck'
+Slack : 47.129
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'altera_reserved_tck'
+Slack : 1.222
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'CLOCK_50'
+Slack : 1.413
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'ENET0_RX_CLK'
+Slack : 2.588
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'ENET1_RX_CLK'
+Slack : 2.592
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'ECE385_sys|nios2_pll|sd1|pll7|clk[0]'
+Slack : 5.310
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ENET0_RX_CLK'
+Slack : 3.636
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ENET1_RX_CLK'
+Slack : 3.636
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ECE385_sys|nios2_pll|sd1|pll7|clk[0]'
+Slack : 3.694
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ENET0_TX_CLK'
+Slack : 4.000
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ENET1_TX_CLK'
+Slack : 4.000
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ECE385_sys|nios2_pll|sd1|pll7|clk[2]'
+Slack : 4.697
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.413
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK2_50'
+Slack : 16.000
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK3_50'
+Slack : 16.000
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ECE385_sys|nios2_pll|sd1|pll7|clk[3]'
+Slack : 19.708
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'altera_reserved_tck'
+Slack : 49.549
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'ECE385_sys|nios2_pll|sd1|pll7|clk[0]'
+Slack : -7.232
+TNS   : -92.493
+
+Type  : Slow 1200mV 0C Model Setup 'ECE385_sys|nios2_pll|sd1|pll7|clk[2]'
+Slack : -3.931
+TNS   : -28.364
+
+Type  : Slow 1200mV 0C Model Setup 'CLOCK_50'
+Slack : 0.279
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'ENET1_RX_CLK'
+Slack : 1.155
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'ENET0_RX_CLK'
+Slack : 1.187
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'ECE385_sys|nios2_pll|sd1|pll7|clk[3]'
+Slack : 9.248
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'altera_reserved_tck'
+Slack : 45.606
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'CLOCK_50'
+Slack : 0.146
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ECE385_sys|nios2_pll|sd1|pll7|clk[0]'
+Slack : 0.337
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ENET0_RX_CLK'
+Slack : 0.351
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ECE385_sys|nios2_pll|sd1|pll7|clk[3]'
+Slack : 0.354
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'altera_reserved_tck'
+Slack : 0.354
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ENET1_RX_CLK'
+Slack : 0.355
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ECE385_sys|nios2_pll|sd1|pll7|clk[2]'
+Slack : 0.367
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'ECE385_sys|nios2_pll|sd1|pll7|clk[0]'
+Slack : -2.302
+TNS   : -542.752
+
+Type  : Slow 1200mV 0C Model Recovery 'ENET0_RX_CLK'
+Slack : 0.666
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'ENET1_RX_CLK'
+Slack : 0.667
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'CLOCK_50'
+Slack : 13.351
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'altera_reserved_tck'
+Slack : 47.501
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'altera_reserved_tck'
+Slack : 1.127
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'CLOCK_50'
+Slack : 1.277
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'ENET0_RX_CLK'
+Slack : 2.279
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'ENET1_RX_CLK'
+Slack : 2.283
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'ECE385_sys|nios2_pll|sd1|pll7|clk[0]'
+Slack : 4.650
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ENET0_RX_CLK'
+Slack : 3.652
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ENET1_RX_CLK'
+Slack : 3.652
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ECE385_sys|nios2_pll|sd1|pll7|clk[0]'
+Slack : 3.686
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ENET0_TX_CLK'
+Slack : 4.000
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ENET1_TX_CLK'
+Slack : 4.000
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ECE385_sys|nios2_pll|sd1|pll7|clk[2]'
+Slack : 4.688
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.438
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK2_50'
+Slack : 16.000
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK3_50'
+Slack : 16.000
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ECE385_sys|nios2_pll|sd1|pll7|clk[3]'
+Slack : 19.692
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'altera_reserved_tck'
+Slack : 49.478
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'ECE385_sys|nios2_pll|sd1|pll7|clk[0]'
+Slack : -3.785
+TNS   : -28.070
+
+Type  : Fast 1200mV 0C Model Setup 'CLOCK_50'
+Slack : 0.643
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'ENET1_RX_CLK'
+Slack : 1.124
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'ENET0_RX_CLK'
+Slack : 1.156
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'ECE385_sys|nios2_pll|sd1|pll7|clk[2]'
+Slack : 2.546
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'ECE385_sys|nios2_pll|sd1|pll7|clk[3]'
+Slack : 13.420
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'altera_reserved_tck'
+Slack : 47.877
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLOCK_50'
+Slack : 0.031
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ENET0_RX_CLK'
+Slack : 0.138
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ECE385_sys|nios2_pll|sd1|pll7|clk[0]'
+Slack : 0.173
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'altera_reserved_tck'
+Slack : 0.180
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ECE385_sys|nios2_pll|sd1|pll7|clk[3]'
+Slack : 0.182
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ENET1_RX_CLK'
+Slack : 0.182
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ECE385_sys|nios2_pll|sd1|pll7|clk[2]'
+Slack : 0.191
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'ECE385_sys|nios2_pll|sd1|pll7|clk[0]'
+Slack : 0.174
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'ENET0_RX_CLK'
+Slack : 2.060
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'ENET1_RX_CLK'
+Slack : 2.064
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'CLOCK_50'
+Slack : 15.905
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'altera_reserved_tck'
+Slack : 48.786
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'altera_reserved_tck'
+Slack : 0.565
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'CLOCK_50'
+Slack : 0.680
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'ENET0_RX_CLK'
+Slack : 1.292
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'ENET1_RX_CLK'
+Slack : 1.296
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'ECE385_sys|nios2_pll|sd1|pll7|clk[0]'
+Slack : 2.823
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ENET0_RX_CLK'
+Slack : 3.379
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ENET1_RX_CLK'
+Slack : 3.380
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ECE385_sys|nios2_pll|sd1|pll7|clk[0]'
+Slack : 3.753
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ENET0_TX_CLK'
+Slack : 4.000
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ENET1_TX_CLK'
+Slack : 4.000
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ECE385_sys|nios2_pll|sd1|pll7|clk[2]'
+Slack : 4.779
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.198
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK2_50'
+Slack : 16.000
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK3_50'
+Slack : 16.000
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ECE385_sys|nios2_pll|sd1|pll7|clk[3]'
+Slack : 19.779
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'altera_reserved_tck'
+Slack : 49.300
+TNS   : 0.000
+
+------------------------------------------------------------

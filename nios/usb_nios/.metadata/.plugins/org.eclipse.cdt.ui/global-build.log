@@ -1,0 +1,82 @@
+12:03:03 **** Build of configuration Nios II for project ECE385_usb ****
+make all 
+Info: Building ../ECE385_usb_bsp/
+D:/environment/IDE/Quartus_18.1.0.625/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../ECE385_usb_bsp/
+makefile:535: Warning: SOPC File ../ECE385.sopcinfo could not be found.
+[BSP build complete]
+[ECE385_usb build complete]
+12:03:05 **** Build of configuration Nios II for project ECE385_usb_bsp ****
+make all 
+makefile:535: Warning: SOPC File ../ECE385.sopcinfo could not be found.
+[BSP build complete]
+12:04:22 **** Incremental Build of configuration Nios II for project ECE385_usb ****
+make all 
+Info: Building ../ECE385_usb_bsp/
+D:/environment/IDE/Quartus_18.1.0.625/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../ECE385_usb_bsp/
+makefile:535: Warning: SOPC File ../ECE385.sopcinfo could not be found.
+[BSP build complete]
+[ECE385_usb build complete]
+12:54:07 **** Incremental Build of configuration Nios II for project ECE385_usb ****
+make all 
+Info: Building ../ECE385_usb_bsp/
+D:/environment/IDE/Quartus_18.1.0.625/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../ECE385_usb_bsp/
+makefile:535: Warning: SOPC File ../ECE385.sopcinfo could not be found.
+[BSP build complete]
+[ECE385_usb build complete]
+16:02:18 **** Incremental Build of configuration Nios II for project ECE385_usb ****
+make all 
+Info: Building ../ECE385_usb_bsp/
+D:/environment/IDE/Quartus_18.1.0.625/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../ECE385_usb_bsp/
+makefile:535: Warning: SOPC File ../ECE385.sopcinfo could not be found.
+[BSP build complete]
+[ECE385_usb build complete]
+17:43:57 **** Incremental Build of configuration Nios II for project ECE385_usb ****
+make all 
+Info: Building ../ECE385_usb_bsp/
+D:/environment/IDE/Quartus_18.1.0.625/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../ECE385_usb_bsp/
+makefile:535: Warning: SOPC File ../ECE385.sopcinfo could not be found.
+[BSP build complete]
+[ECE385_usb build complete]
+08:55:51 **** Incremental Build of configuration Nios II for project ECE385_usb ****
+make all 
+Info: Building ../ECE385_usb_bsp/
+D:/environment/IDE/Quartus_18.1.0.625/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../ECE385_usb_bsp/
+makefile:535: Warning: SOPC File ../ECE385.sopcinfo could not be found.
+[BSP build complete]
+[ECE385_usb build complete]
+08:55:55 **** Build of configuration Nios II for project ECE385_usb_bsp ****
+make all 
+makefile:535: Warning: SOPC File ../ECE385.sopcinfo could not be found.
+[BSP build complete]
+09:00:42 **** Incremental Build of configuration Nios II for project ECE385_usb ****
+make all 
+Info: Building ../ECE385_usb_bsp/
+D:/environment/IDE/Quartus_18.1.0.625/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../ECE385_usb_bsp/
+makefile:535: Warning: SOPC File ../ECE385.sopcinfo could not be found.
+[BSP build complete]
+[ECE385_usb build complete]
+09:00:43 **** Build of configuration Nios II for project ECE385_usb_bsp ****
+make all 
+makefile:535: Warning: SOPC File ../ECE385.sopcinfo could not be found.
+[BSP build complete]
+09:00:55 **** Incremental Build of configuration Nios II for project ECE385_usb ****
+make all 
+Info: Building ../ECE385_usb_bsp/
+D:/environment/IDE/Quartus_18.1.0.625/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../ECE385_usb_bsp/
+makefile:535: Warning: SOPC File ../ECE385.sopcinfo could not be found.
+[BSP build complete]
+[ECE385_usb build complete]
+17:56:47 **** Incremental Build of configuration Nios II for project ECE385_usb ****
+make all 
+Info: Building ../ECE385_usb_bsp/
+D:/environment/IDE/Quartus_18.1.0.625/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../ECE385_usb_bsp/
+makefile:535: Warning: SOPC File ../ECE385.sopcinfo could not be found.
+[BSP build complete]
+[ECE385_usb build complete]
+08:23:55 **** Incremental Build of configuration Nios II for project ECE385_usb ****
+make all 
+Info: Building ../ECE385_usb_bsp/
+D:/environment/IDE/Quartus_18.1.0.625/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../ECE385_usb_bsp/
+makefile:535: Warning: SOPC File ../ECE385.sopcinfo could not be found.
+[BSP build complete]
+[ECE385_usb build complete]

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="VGA_SPRITE_PARAMS" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="vga_sprite_params"/>
+			<item value="game_loop"/>
+			<item value="ENEMY_PLANE_HP"/>
+			<item value="handle_enemy_planes_spawn_double"/>
+			<item value="sprite_info1-&gt;type"/>
+			<item value="handle_enemy_planes_firing_double"/>
+			<item value="player_score"/>
+			<item value="sprite_info"/>
+		</list>
+		<list key="replacehistory">
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="273" key="DIALOG_WIDTH"/>
+		<item value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI" key="DIALOG_FONT_NAME"/>
+		<item value="400" key="DIALOG_HEIGHT"/>
+		<item value="1655" key="DIALOG_X_ORIGIN"/>
+		<item value="257" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

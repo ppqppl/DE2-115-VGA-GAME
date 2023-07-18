@@ -1,0 +1,7 @@
+08:28:26 **** Incremental Build of configuration Nios II for project ECE385_bsp ****
+make all 
+makefile:553: Warning: SOPC File ../ECE385.sopcinfo could not be found.
+[BSP build complete]
+
+08:28:27 Build Finished (took 1s.151ms)
+

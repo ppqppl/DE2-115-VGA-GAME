@@ -1,0 +1,10 @@
+08:23:55 **** Incremental Build of configuration Nios II for project ECE385_usb ****
+make all 
+Info: Building ../ECE385_usb_bsp/
+D:/environment/IDE/Quartus_18.1.0.625/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../ECE385_usb_bsp/
+makefile:535: Warning: SOPC File ../ECE385.sopcinfo could not be found.
+[BSP build complete]
+[ECE385_usb build complete]
+
+08:23:56 Build Finished (took 1s.615ms)
+

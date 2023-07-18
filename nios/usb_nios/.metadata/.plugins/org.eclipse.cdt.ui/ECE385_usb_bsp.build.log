@@ -1,0 +1,7 @@
+09:00:43 **** Build of configuration Nios II for project ECE385_usb_bsp ****
+make all 
+makefile:535: Warning: SOPC File ../ECE385.sopcinfo could not be found.
+[BSP build complete]
+
+09:00:45 Build Finished (took 1s.206ms)
+
